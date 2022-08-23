@@ -3,8 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pipeComp"]
+	path = pipeComp
+	url = https://github.com/plger/pipecomp
+	shallow = true
+	registered = true
 [submodule "scDblFinder"]
 	path = scDblFinder
 	url = https://github.com/plger/scdblfinder
+	shallow = true
+	registered = true
+[submodule "sechm"]
+	path = sechm
+	url = https://github.com/plger/sechm
+	shallow = true
+	registered = true
+[submodule "SEtools"]
+	path = SEtools
+	url = https://github.com/plger/setools
 	shallow = true
 	registered = true

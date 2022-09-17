@@ -1,14 +1,5 @@
 [
   {
-    "package": "pipeComp"
-  },
-  {
-    "package": "scDblFinder"
-  },
-  {
     "package": "sechm"
-  },
-  {
-    "package": "SEtools"
   }
 ]
